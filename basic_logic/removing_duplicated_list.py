@@ -1,13 +1,7 @@
 """
 Program: Remove duplicates from a list in Python
 Description:
-This program demonstrates two ways to remove duplicate elements
-from a list:
-1. Using a loop (preserves order)
-2. Using a set (does NOT preserve order)
 """
-
-
 def remove_duplicates_using_loop(list1):
     """
     Removes duplicates from a list while preserving the original order.
